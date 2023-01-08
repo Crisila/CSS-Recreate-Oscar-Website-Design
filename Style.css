@@ -1,0 +1,9 @@
+.banner {
+    background-color: black;
+    color: white;
+}
+
+.banner_content, li {
+    display: inline-block;
+
+}
